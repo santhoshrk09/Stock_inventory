@@ -1,0 +1,52 @@
+[
+  {
+    "product_id": "P1001",
+    "name": "Wireless Keyboard",
+    "description": "Ergonomic 2.4GHz wireless keyboard with USB receiver",
+    "price": 1299.99,
+    "category": "Accessories",
+    "stock_id": "S001",
+    "created_at": "2025-07-01T10:15:00Z",
+    "icon": "fakeyboard"
+  },
+  {
+    "product_id": "P1002",
+    "name": "Bluetooth Mouse",
+    "description": "Rechargeable silent-click mouse with Bluetooth 5.0",
+    "price": 799.50,
+    "category": "Accessories",
+    "stock_id": "S001",
+    "created_at": "2025-07-03T12:20:00Z",
+    "icon": "famouse"
+  },
+  {
+    "product_id": "P1003",
+    "name": "27-inch 4K Monitor",
+    "description": "Ultra HD IPS display with HDMI and DisplayPort support",
+    "price": 21999.00,
+    "category": "Display",
+    "stock_id": "S002",
+    "created_at": "2025-07-05T09:45:00Z",
+    "icon": "fadesktop"
+  },
+  {
+    "product_id": "P1004",
+    "name": "Noise Cancelling Headphones",
+    "description": "Over-ear wireless headphones with active noise cancellation",
+    "price": 4999.00,
+    "category": "Audio",
+    "stock_id": "S003",
+    "created_at": "2025-07-10T14:00:00Z",
+    "icon": "faheadphones"
+  },
+  {
+    "product_id": "P1005",
+    "name": "Portable SSD 1TB",
+    "description": "USB 3.2 Gen 2 ultra-fast external solid state drive",
+    "price": 6499.99,
+    "category": "Storage",
+    "stock_id": "S004",
+    "created_at": "2025-07-18T16:30:00Z",
+    "icon": "fahdd"
+  }
+]

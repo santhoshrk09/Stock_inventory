@@ -1,0 +1,84 @@
+{
+  "inventory": [
+    {
+      "id": "2",
+      "name": "Smartphone - iPhone",
+      "category": "Mobile Phone",
+      "brand": "Apple",
+      "quantity": 18,
+      "price": 999
+    },
+    {
+      "id": "3",
+      "name": "Bluetooth Speaker - JBL Flip 6",
+      "category": "Audio",
+      "brand": "JBL",
+      "quantity": 40,
+      "price": 119.95
+    },
+    {
+      "id": "4",
+      "name": "Wireless Mouse - Logitech M720",
+      "category": "Accessories",
+      "brand": "Logitech",
+      "quantity": 60,
+      "price": 49.99
+    },
+    {
+      "id": "5",
+      "name": "Smart TV - Samsung 55\" QLED",
+      "category": "Televisions",
+      "brand": "Samsung",
+      "quantity": 12,
+      "price": 799.99
+    },
+    {
+      "id": "6",
+      "name": "External SSD - Samsung T7 1TB",
+      "category": "Storage",
+      "brand": "Samsung",
+      "quantity": 35,
+      "price": 139.99
+    },
+    {
+      "id": "7",
+      "name": "Tablet - iPad Air (2024)",
+      "category": "Tablets",
+      "brand": "Apple",
+      "quantity": 15,
+      "price": 599
+    },
+    {
+      "id": "8",
+      "name": "Router - TP-Link Archer AX73",
+      "category": "Networking",
+      "brand": "TP-Link",
+      "quantity": 22,
+      "price": 199.99
+    },
+    {
+      "id": "9",
+      "name": "Monitor - LG UltraGear 27\"",
+      "category": "Monitors",
+      "brand": "LG",
+      "quantity": 20,
+      "price": "349.000"
+    },
+    {
+      "id": "10",
+      "name": "Gaming Console - PlayStation 5",
+      "category": "Gaming",
+      "brand": "Sony",
+      "quantity": 10,
+      "price": 499.99
+    },
+    {
+      "id": "11",
+      "name": "iphone 15",
+      "category": "mobile phone",
+      "brand": "Apple",
+      "quantity": "1",
+      "price": "1000"
+    }
+  ]
+}

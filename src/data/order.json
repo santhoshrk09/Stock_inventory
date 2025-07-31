@@ -1,0 +1,224 @@
+{
+    "order":[
+  {
+    "order_id": "ORD1001",
+    "product_name": "Laptop - Dell XPS 13",
+    "sku": "LAP-DX13-001",
+    "quantity": 5,
+    "unit_price": 1200.00,
+    "total_price": 6000.00,
+    "supplier": "Dell Inc.",
+    "order_date": "2025-07-20",
+    "status": "Shipped"
+  },
+  {
+    "order_id": "ORD1002",
+    "product_name": "Smartphone - iPhone 15 Pro",
+    "sku": "PHN-IP15P-002",
+    "quantity": 10,
+    "unit_price": 999.00,
+    "total_price": 9990.00,
+    "supplier": "Apple Inc.",
+    "order_date": "2025-07-21",
+    "status": "Pending"
+  },
+  {
+    "order_id": "ORD1003",
+    "product_name": "LED Monitor - Samsung 27\"",
+    "sku": "MON-SAM27-003",
+    "quantity": 8,
+    "unit_price": 250.00,
+    "total_price": 2000.00,
+    "supplier": "Samsung Electronics",
+    "order_date": "2025-07-19",
+    "status": "Delivered"
+  },
+  {
+    "order_id": "ORD1004",
+    "product_name": "Wireless Mouse - Logitech MX Master 3",
+    "sku": "MSE-LOGMX3-004",
+    "quantity": 15,
+    "unit_price": 99.00,
+    "total_price": 1485.00,
+    "supplier": "Logitech",
+    "order_date": "2025-07-22",
+    "status": "Processing"
+  },
+  {
+    "order_id": "ORD1005",
+    "product_name": "Mechanical Keyboard - Keychron K6",
+    "sku": "KYB-KCK6-005",
+    "quantity": 12,
+    "unit_price": 80.00,
+    "total_price": 960.00,
+    "supplier": "Keychron",
+    "order_date": "2025-07-18",
+    "status": "Delivered"
+  },
+  {
+    "order_id": "ORD1006",
+    "product_name": "External SSD - Samsung T7 1TB",
+    "sku": "SSD-SAMT7-006",
+    "quantity": 20,
+    "unit_price": 150.00,
+    "total_price": 3000.00,
+    "supplier": "Samsung Electronics",
+    "order_date": "2025-07-23",
+    "status": "Pending"
+  },
+  {
+    "order_id": "ORD1007",
+    "product_name": "Smartwatch - Apple Watch Series 9",
+    "sku": "SWT-APW9-007",
+    "quantity": 6,
+    "unit_price": 399.00,
+    "total_price": 2394.00,
+    "supplier": "Apple Inc.",
+    "order_date": "2025-07-24",
+    "status": "Processing"
+  },
+  {
+    "order_id": "ORD1008",
+    "product_name": "Gaming Console - PlayStation 5",
+    "sku": "GMC-PS5-008",
+    "quantity": 4,
+    "unit_price": 499.00,
+    "total_price": 1996.00,
+    "supplier": "Sony",
+    "order_date": "2025-07-20",
+    "status": "Shipped"
+  },
+  {
+    "order_id": "ORD1009",
+    "product_name": "Bluetooth Speaker - JBL Charge 5",
+    "sku": "SPK-JBLCH5-009",
+    "quantity": 10,
+    "unit_price": 150.00,
+    "total_price": 1500.00,
+    "supplier": "JBL",
+    "order_date": "2025-07-25",
+    "status": "Pending"
+  },
+  {
+    "order_id": "ORD1010",
+    "product_name": "Graphics Card - NVIDIA RTX 4080",
+    "sku": "GPU-RTX4080-010",
+    "quantity": 3,
+    "unit_price": 1500.00,
+    "total_price": 4500.00,
+    "supplier": "NVIDIA",
+    "order_date": "2025-07-19",
+    "status": "Delivered"
+  },
+  {
+    "order_id": "ORD1011",
+    "product_name": "Router - TP-Link Archer AX6000",
+    "sku": "RTR-TPLAX6-011",
+    "quantity": 7,
+    "unit_price": 280.00,
+    "total_price": 1960.00,
+    "supplier": "TP-Link",
+    "order_date": "2025-07-26",
+    "status": "Processing"
+  },
+  {
+    "order_id": "ORD1012",
+    "product_name": "Tablet - Samsung Galaxy Tab S9",
+    "sku": "TAB-SAM9-012",
+    "quantity": 5,
+    "unit_price": 850.00,
+    "total_price": 4250.00,
+    "supplier": "Samsung Electronics",
+    "order_date": "2025-07-21",
+    "status": "Shipped"
+  },
+  {
+    "order_id": "ORD1013",
+    "product_name": "Drone - DJI Mini 4 Pro",
+    "sku": "DRN-DJI4P-013",
+    "quantity": 2,
+    "unit_price": 999.00,
+    "total_price": 1998.00,
+    "supplier": "DJI",
+    "order_date": "2025-07-18",
+    "status": "Delivered"
+  },
+  {
+    "order_id": "ORD1014",
+    "product_name": "Portable Charger - Anker PowerCore 20000mAh",
+    "sku": "PWR-ANK20-014",
+    "quantity": 25,
+    "unit_price": 50.00,
+    "total_price": 1250.00,
+    "supplier": "Anker",
+    "order_date": "2025-07-23",
+    "status": "Pending"
+  },
+  {
+    "order_id": "ORD1015",
+    "product_name": "Smart TV - LG OLED 55\"",
+    "sku": "TV-LG55-015",
+    "quantity": 3,
+    "unit_price": 1300.00,
+    "total_price": 3900.00,
+    "supplier": "LG Electronics",
+    "order_date": "2025-07-22",
+    "status": "Shipped"
+  },
+  {
+    "order_id": "ORD1016",
+    "product_name": "VR Headset - Meta Quest 3",
+    "sku": "VR-MQ3-016",
+    "quantity": 4,
+    "unit_price": 499.00,
+    "total_price": 1996.00,
+    "supplier": "Meta",
+    "order_date": "2025-07-25",
+    "status": "Processing"
+  },
+  {
+    "order_id": "ORD1017",
+    "product_name": "Smart Home Hub - Amazon Echo Show 10",
+    "sku": "HUB-AMEC10-017",
+    "quantity": 6,
+    "unit_price": 250.00,
+    "total_price": 1500.00,
+    "supplier": "Amazon",
+    "order_date": "2025-07-20",
+    "status": "Delivered"
+  },
+  {
+    "order_id": "ORD1018",
+    "product_name": "Webcam - Logitech C922 Pro",
+    "sku": "WBC-LOG922-018",
+    "quantity": 15,
+    "unit_price": 100.00,
+    "total_price": 1500.00,
+    "supplier": "Logitech",
+    "order_date": "2025-07-19",
+    "status": "Delivered"
+  },
+  {
+    "order_id": "ORD1019",
+    "product_name": "Smart Light Bulb - Philips Hue White",
+    "sku": "LGT-PHUW-019",
+    "quantity": 30,
+    "unit_price": 20.00,
+    "total_price": 600.00,
+    "supplier": "Philips",
+    "order_date": "2025-07-26",
+    "status": "Pending"
+  },
+  {
+    "order_id": "ORD1020",
+    "product_name": "Portable Projector - Anker Nebula Capsule",
+    "sku": "PRJ-ANKCAP-020",
+    "quantity": 5,
+    "unit_price": 300.00,
+    "total_price": 1500.00,
+    "supplier": "Anker",
+    "order_date": "2025-07-27",
+    "status": "Processing"
+  }
+]
+}
