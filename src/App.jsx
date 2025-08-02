@@ -39,9 +39,9 @@ function App() {
           
          
           <Routes>
-            <Route path="/" element={<Dashboard />} />
-            <Route path="/Orders" element={<Order/>} />
-            <Route path="/inventory" element={<Inventory/>} />
+            <Route path="/Stock_inventory/" element={<Dashboard />} />
+            <Route path="/Stock_inventory/Orders" element={<Order/>} />
+            <Route path="/Stock_inventory/inventory" element={<Inventory/>} />
           </Routes>
         </div>
         </ThemeProvider>  
